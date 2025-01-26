@@ -1,7 +1,7 @@
 # My PowerShell Project
 
 ## Overview
-This project is a PowerShell-based application that includes a main script, a module with reusable functions, and test scripts to validate functionality.
+This project is a PowerShell-based application that includes several powershell scripts that run independently, to manage a fortinet firewall ip block list. Also it removes from the block list if the ip after x number of hours.
 
 ## Project Structure
 ```
